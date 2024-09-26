@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
+  <url>
+    <loc>https://localhost/landing.html</loc>
+    <lastmod>2022-06-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+
+    <image:image>
+    <image:loc>https://images.pexels.com/photos/7915237/pexels-photo-7915237.jpeg</image:loc>
+    <image:title>landing IMG</image:title>
+    <image:geo_location>USE</image:geo_location>
+    <image:caption>img principal landing</image:caption>
+    </image:image>
+
+
+    <image:image>
+    <image:loc>https://nintenduo.com/wp-content/uploads/2024/09/Pelicula-Minecraft-Trailer.webp</image:loc>
+    <image:title>Destacado Pelicula-Minecraft-Trailer</image:title>
+    <image:geo_location>USE</image:geo_location>
+    <image:caption>Pelicula-Minecraft-Trailer</image:caption>
+    </image:image>
+
+
+    <image:image>
+    <image:loc>https://th.bing.com/th/id/OIP.nPEyFMroSpkRJNCxsdI4mQHaDq?rs=1pid=ImgDetMain</image:loc>
+    <image:title>Destacado Balatro llega a telefonos</image:title>
+    <image:geo_location>USE</image:geo_location>
+    <image:caption>Balatro llega a telefonos</image:caption>
+    </image:image>
+
+    <image:image>
+    <image:loc>https://th.bing.com/th/id/OIP.nPEyFMroSpkRJNCxsdI4mQHaDq?rs=1pid=ImgDetMain</image:loc>
+    <image:title>Deestacado Marvel's Wolverine en problemas</image:title>
+    <image:geo_location>USE</image:geo_location>
+    <image:caption>Marvel's Wolverine en problemas</image:caption>
+    </image:image>
+
+
+  </url>
+</urlset>
